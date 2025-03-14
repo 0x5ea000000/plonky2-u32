@@ -14,4 +14,4 @@ plonky2 = { git = "https://github.com/0x5ea000000/plonky2" }
 
 [dev-dependencies]
 rand = { version = "0.8.4", default-features = false, features = ["getrandom"] }
-plonky2 = "1.0.2"
+plonky2 = { git = "https://github.com/0x5ea000000/plonky2" }
